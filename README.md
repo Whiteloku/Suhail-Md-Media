@@ -39,7 +39,7 @@ SEnds  Animated Teddy
 https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/teddy.js
 ```
 ---
-<h4 align="center">  auto forward (EditAble)</h1>
+<h4 align="center">  auto forward (levanter_6bed021d7d9c7408e85a0508b194e264f)</h1>
 
 AUTO Forward Message
 ```
