@@ -257,7 +257,7 @@ https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/de
 
  Search Stickers
 ```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/stickersearch.js
+https://raw.githubusercontent.com/SuhailTechIlevanter_6bed021d7d9c7408e85a0508b194e264flevanter_6bed021d7d9c7408e85a0508b194e264fnfo/Suhail-Md-Media/main/plugins/stickersearch.js
 ```
 -  Delete messages of a user from Group!
 ---
